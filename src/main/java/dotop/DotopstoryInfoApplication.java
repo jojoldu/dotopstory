@@ -1,4 +1,4 @@
-package info;
+package dotop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
